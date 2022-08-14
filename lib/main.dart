@@ -73,6 +73,7 @@ class _MyHomePageState extends State<MyHomePage> with WidgetsBindingObserver {
     //   amount: 31.21,
     //   date: DateTime.now(),
     // ),
+    //
   ];
 
   bool _showChart = false;
